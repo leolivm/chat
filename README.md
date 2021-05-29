@@ -42,6 +42,6 @@ $ node server.js
 
 ---
 
-You can check the application at http://localhost:3000/
+You can check the application at `http://localhost:3000/`
 
 Made with 💜 by Leandro Martins 👋 [See my linkedin](https://www.linkedin.com/in/leandro-martins-0640921a4/)
