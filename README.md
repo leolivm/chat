@@ -34,8 +34,6 @@ $ git clone https://github.com/leolivm/chat.git && cd chat
 # Install the dependencies
 $ yarn
 
-# Be sure the file 'src/services/api.ts' have the IP to your API
-
 # Start the client
 $ node server.js
 ```
