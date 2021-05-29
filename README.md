@@ -2,7 +2,7 @@
   Chat app -> Study project using Node.js and Socket.io
 </h3>
 
-## 💇🏻‍♂️ About the project
+## 💬 About the project
 
 - Chat web application developed for student purposes.
 
